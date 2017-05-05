@@ -1,0 +1,23 @@
+subroutine getParticleLevel(dz,t,p)
+	use ptmModule
+	implicit none
+	integer :: t,p
+	real :: dz
+	
+! previous step level:
+!	particles%levels(t,p)
+
+! previous step depth [m]:   
+!	abs(ncgrid%levels(particles%levels(t,p)))
+      	
+! depth [m] after moving for dz in vertical:
+!	ncgrid%levels(particles%levels(t,p)) + dz
+
+! Therefore the new closest level to current depth is equal to 
+! the location of the minimum difference between (all) ncgrid%level
+! and previous depth, increased(decreased) by dz:
+
+	particles%levels(t+1,p) = minloc(abs( abs(ncgrid%levels) - &
+	( ncgrid%levels(particles%levels(t,p)) + dz ) ))	
+	
+end subroutine getParticleLevel

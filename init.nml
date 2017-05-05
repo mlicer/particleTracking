@@ -1,0 +1,46 @@
+&initialParameters ! initial parameters:
+model='sbNADRIPOM'
+modelRuntimeInHours=72
+dt=1
+numHoursOfTracking=48
+releaseDuration=2
+performBacktracking=.False.
+numberOfParticles=120
+numCreatedParticlesPerStep=60
+totalMass=20000.0
+oilIndex=2.0
+completeEvapPercentage=0.2
+evapThreshold=0.77
+useOceanModelDiffusivity=.False.
+Dh=0.001
+numOfExistingFiles=2
+level=1
+tracking3D=.False.
+sign_t=1
+startdate='2017032600'
+enddate='2017032700'
+releaseType='singlePoint'
+numberOfReleasePoints=1
+/
+&files ! files to be read:
+existingFiles='/home/momo/particleTracking/sbNADRIPOM_netcdf/sbnadripom_uvtide_20170326.nc',
+'/home/momo/particleTracking/sbNADRIPOM_netcdf/sbnadripom_uvtide_20170327.nc'
+/
+&atmfiles ! wind files to be read:
+existingAtmFiles='/home/momo/particleTracking/sbNADRIPOM_netcdf/atm.sbNADRIPOM_20170326.nc',
+'/home/momo/particleTracking/sbNADRIPOM_netcdf/atm.sbNADRIPOM_20170327.nc'
+/
+&startTimes! beginning time indices for reading per file:
+hourReadStart(1)=1
+hourReadStart(2)=1
+/
+&endTimes! ending time indices for reading per file:
+hourReadEnd(1)=24
+hourReadEnd(2)=24
+/
+&releaseLats ! latitudes of particle release shape:
+releasePointsLats(1)=45.5904065
+/
+&releaseLons ! longitudes of particle release shape:
+releasePointsLons(1)=13.6993
+/

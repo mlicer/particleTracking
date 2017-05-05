@@ -1,0 +1,123 @@
+    subroutine advectionDiffusion(t,p)
+    ! Advection and diffusion routines for particleTracking.f90
+    ! More info: matjaz.licer@mbss.org
+    
+    use trackingTools
+!    use initModule
+    implicit none
+	    real :: Rearth = 6370000., dx, dy
+	    real :: d2r, r2d, pi, u0,v0, udiff, vdiff
+	    integer :: p,t,i_point,j_point
+
+    pi = acos(-1.)
+    d2r = pi/180.;
+    r2d = 180./pi ;
+
+    ! test for initial point (land/sea):
+    call get_closest_point(setup%lat0,setup%lon0,j_point,i_point)
+    if ( ncgrid%lsm(i_point,j_point,setup%level) .ne. 1.0 ) then
+	    print *,''
+	    print *, "PTM ERROR: INITIAL POINT ",setup%lat0,setup%lon0,&
+	    "SEEMS TO BE A LAND POINT!"
+	    stop
+    endif 
+
+
+		
+	    particles%dates(t)= t
+	    !particles%dates(setup%numHoursOfTracking)=setup%numHoursOfTracking
+
+	    ! update particle grid index (i_point,j_point) from previous timestep:
+	    call get_closest_point(particles%lats(t,p),&
+	    particles%lons(t,p), j_point, i_point)
+		
+	    ! advect particles and enforce beaching if neccessary:
+	    if (ncgrid%lsm(i_point,j_point,setup%level) .eq. 1.0) then
+	
+	    ! get advection velocities at this location/timestep:
+		    !u0 = current%u(i_point,j_point,setup%level,t)
+		    !v0 = current%v(i_point,j_point,setup%level,t)
+		    u0 = current%u(i_point,j_point,1,t)
+		    v0 = current%v(i_point,j_point,1,t)		    
+
+		    ! add turbulent diffusion:
+		    call diffusion(setup,udiff,vdiff)
+
+		    u0 = u0 + udiff
+		    v0 = v0 + vdiff	
+
+        ! advect particles one timestep:
+       	! note that backtracking is enforced via sign_t value!
+
+		    dx = setup%sign_t * u0 * setup%dt * 3600.;
+        	dy = setup%sign_t * v0 * setup%dt * 3600.;
+        
+        
+        ! update particles lat/lon:
+        	particles%lons(t+1,p) = particles%lons(t,p) &
+        	+ r2d * dx / (Rearth * cos(particles%lats(t,p)*d2r));
+        	particles%lats(t+1,p) = particles%lats(t,p) &
+        	+ r2d * dy / Rearth ;
+        	particles%levels(t+1,p) = setup%level
+
+	    else ! if particle is beaching: i,j stays the same +
+		     ! no advection, only diffusion:
+
+		     i_point = particles%lons(t,p)
+		     j_point = particles%lats(t,p)
+		     u0 = 0.0
+		     v0 = 0.0
+
+		    ! add turbulent diffusion:
+		    call diffusion(udiff,vdiff)
+
+		    u0 = u0 + udiff
+		    v0 = v0 + vdiff	
+
+        ! advect particles one timestep.
+        ! note that backtracking is enforced via sign_t value!
+
+       		dx = setup%sign_t * u0 * setup%dt * 3600.;
+        	dy = setup%sign_t * v0 * setup%dt * 3600.;
+        
+        
+        ! update particles lat/lon:
+        	particles%lons(t+1,p) = particles%lons(t,p) &
+        	+ r2d * dx / (Rearth * cos(particles%lats(t,p)*d2r));
+        	particles%lats(t+1,p) = particles%lats(t,p) &
+        	+ r2d * dy / Rearth ;		 
+        	particles%levels(t+1,p) = setup%level
+
+	
+	    endif
+
+    ! 	enddo
+    ! enddo
+
+    end subroutine advectionDiffusion
+
+    subroutine diffusion(udiff,vdiff)
+    use trackingTools
+    implicit none
+    real, intent(out) :: udiff, vdiff
+    integer :: sgnu, sgnv
+    real :: random
+
+    sgnu = +1;
+    sgnv = +1;
+       
+    call random_number(random)
+    if (random>0.5) then
+        sgnu = -1;
+    endif
+
+    call random_number(random)
+    if (random>0.5) then
+        sgnv = -1;
+    endif
+
+    call random_number(random)
+    udiff = sgnu*sqrt(2*setup%Dh/(setup%dt*3600))*random;
+    vdiff = sgnv*sqrt(2*setup%Dh/(setup%dt*3600))*random;
+
+    end subroutine diffusion

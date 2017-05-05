@@ -1,0 +1,1279 @@
+NUMBER OF CORES: 16
+cleaning...
+rm: cannot remove `/home/momo/particleTracking/rundir/PTM.o*': No such file or directory
+rm: cannot remove `/home/momo/particleTracking/rundir/ptm_output_*.nc': No such file or directory
+running...
+ 
+ OPENMP: The number of processors available =       32
+ OPENMP: The number of threads available    =       16
+   45.17930       44.67300       44.67300    
+           1
+           2
+           3
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111109.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18           1
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19           2
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20           3
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21           4
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22           5
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23           6
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24           7
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111110.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1           8
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2           9
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3          10
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4          11
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5          12
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6          13
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7          14
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8          15
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9          16
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10          17
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11          18
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12          19
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13          20
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14          21
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15          22
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16          23
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17          24
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18          25
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19          26
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20          27
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21          28
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22          29
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23          30
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24          31
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111111.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1          32
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2          33
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3          34
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4          35
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5          36
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6          37
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7          38
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8          39
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9          40
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10          41
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11          42
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12          43
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13          44
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14          45
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15          46
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16          47
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17          48
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18          49
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19          50
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20          51
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21          52
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22          53
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23          54
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24          55
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111112.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1          56
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2          57
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3          58
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4          59
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5          60
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6          61
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7          62
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8          63
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9          64
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10          65
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11          66
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12          67
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13          68
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14          69
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15          70
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16          71
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17          72
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18          73
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19          74
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20          75
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21          76
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22          77
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23          78
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24          79
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111113.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1          80
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2          81
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3          82
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4          83
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5          84
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6          85
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7          86
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8          87
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9          88
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10          89
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11          90
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12          91
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13          92
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14          93
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15          94
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16          95
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17          96
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18          97
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19          98
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20          99
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21         100
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22         101
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23         102
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24         103
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111114.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1         104
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2         105
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3         106
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4         107
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5         108
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6         109
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7         110
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8         111
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9         112
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10         113
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11         114
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12         115
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13         116
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14         117
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15         118
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16         119
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17         120
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18         121
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19         122
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20         123
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21         124
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22         125
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23         126
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24         127
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111115.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1         128
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2         129
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3         130
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4         131
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5         132
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6         133
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7         134
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8         135
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9         136
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10         137
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11         138
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12         139
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13         140
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14         141
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15         142
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16         143
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17         144
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18         145
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19         146
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20         147
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21         148
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22         149
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23         150
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24         151
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111116.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1         152
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2         153
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3         154
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4         155
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5         156
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6         157
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7         158
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8         159
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9         160
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10         161
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11         162
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12         163
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13         164
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14         165
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15         166
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16         167
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17         168
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18         169
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19         170
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20         171
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21         172
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22         173
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23         174
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24         175
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111117.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1         176
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2         177
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3         178
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4         179
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5         180
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6         181
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7         182
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8         183
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9         184
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10         185
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11         186
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12         187
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13         188
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14         189
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15         190
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16         191
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17         192
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18         193
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19         194
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20         195
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21         196
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22         197
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23         198
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24         199
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111118.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1         200
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2         201
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3         202
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4         203
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5         204
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6         205
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7         206
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8         207
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9         208
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10         209
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11         210
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12         211
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13         212
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14         213
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15         214
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16         215
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17         216
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18         217
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19         218
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20         219
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21         220
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22         221
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23         222
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24         223
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111119.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1         224
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2         225
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3         226
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4         227
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5         228
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6         229
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7         230
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8         231
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9         232
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10         233
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11         234
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12         235
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13         236
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14         237
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15         238
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16         239
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17         240
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18         241
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19         242
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20         243
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21         244
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22         245
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23         246
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24         247
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111120.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1         248
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2         249
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3         250
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4         251
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5         252
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6         253
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7         254
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8         255
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9         256
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10         257
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11         258
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12         259
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13         260
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14         261
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15         262
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16         263
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17         264
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18         265
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19         266
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20         267
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21         268
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22         269
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23         270
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24         271
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111121.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1         272
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2         273
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3         274
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4         275
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5         276
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           6         277
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           7         278
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           8         279
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           9         280
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          10         281
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          11         282
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          12         283
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          13         284
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          14         285
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          15         286
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          16         287
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          17         288
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          18         289
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          19         290
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          20         291
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          21         292
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          22         293
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          23         294
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:          24         295
+ READING OCEAN CURRENTS FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111122.nc
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           1         296
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           2         297
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           3         298
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           4         299
+ HOUR OF DAY, TOTAL HOUR OF SIMULATION:           5         300
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111109.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111110.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111111.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111112.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111113.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111114.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111115.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111116.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111117.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111118.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111119.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111120.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111121.nc
+ READING OCEAN STATE FROM: 
+ /home/momo/particleTracking/ADRIPOM_netcdf/ADRIPOM_20111122.nc
+ PTM computation for          300  particles: step            1 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.3892000    
+ PTM computation for          300  particles: step            2 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1923000    
+ PTM computation for          300  particles: step            3 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step            4 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step            5 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step            6 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step            7 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step            8 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step            9 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           10 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           11 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           12 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           13 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           14 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           15 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           16 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1918000    
+ PTM computation for          300  particles: step           17 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1918000    
+ PTM computation for          300  particles: step           18 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           19 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           20 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           21 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           22 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           23 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           24 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           25 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           26 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           27 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           28 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           29 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           30 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           31 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           32 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           33 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           34 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           35 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           36 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           37 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           38 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           39 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           40 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           41 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           42 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           43 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           44 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           45 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           46 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           47 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           48 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1921000    
+ PTM computation for          300  particles: step           49 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           50 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1921000    
+ PTM computation for          300  particles: step           51 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           52 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1921000    
+ PTM computation for          300  particles: step           53 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           54 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.2063000    
+ PTM computation for          300  particles: step           55 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1984000    
+ PTM computation for          300  particles: step           56 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           57 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           58 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           59 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           60 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           61 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           62 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           63 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           64 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           65 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           66 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           67 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           68 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           69 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           70 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           71 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           72 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           73 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           74 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           75 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1921000    
+ PTM computation for          300  particles: step           76 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           77 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1921000    
+ PTM computation for          300  particles: step           78 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1921000    
+ PTM computation for          300  particles: step           79 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           80 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1921000    
+ PTM computation for          300  particles: step           81 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           82 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           83 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           84 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           85 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           86 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           87 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           88 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           89 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1920000    
+ PTM computation for          300  particles: step           90 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           91 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           92 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           93 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           94 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           95 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           96 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1918000    
+ PTM computation for          300  particles: step           97 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1918000    
+ PTM computation for          300  particles: step           98 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step           99 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1918000    
+ PTM computation for          300  particles: step          100 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1918000    
+ PTM computation for          300  particles: step          101 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1917000    
+ PTM computation for          300  particles: step          102 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1918000    
+ PTM computation for          300  particles: step          103 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1917000    
+ PTM computation for          300  particles: step          104 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1917000    
+ PTM computation for          300  particles: step          105 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1916000    
+ PTM computation for          300  particles: step          106 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1917000    
+ PTM computation for          300  particles: step          107 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1917000    
+ PTM computation for          300  particles: step          108 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1916000    
+ PTM computation for          300  particles: step          109 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1915000    
+ PTM computation for          300  particles: step          110 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1915000    
+ PTM computation for          300  particles: step          111 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1916000    
+ PTM computation for          300  particles: step          112 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1915000    
+ PTM computation for          300  particles: step          113 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1916000    
+ PTM computation for          300  particles: step          114 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1915000    
+ PTM computation for          300  particles: step          115 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1914000    
+ PTM computation for          300  particles: step          116 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1914000    
+ PTM computation for          300  particles: step          117 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1914000    
+ PTM computation for          300  particles: step          118 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1914000    
+ PTM computation for          300  particles: step          119 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1914000    
+ PTM computation for          300  particles: step          120 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1914000    
+ PTM computation for          300  particles: step          121 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1914000    
+ PTM computation for          300  particles: step          122 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1914000    
+ PTM computation for          300  particles: step          123 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1913000    
+ PTM computation for          300  particles: step          124 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1914000    
+ PTM computation for          300  particles: step          125 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1913000    
+ PTM computation for          300  particles: step          126 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1913000    
+ PTM computation for          300  particles: step          127 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1913000    
+ PTM computation for          300  particles: step          128 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1913000    
+ PTM computation for          300  particles: step          129 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1912000    
+ PTM computation for          300  particles: step          130 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1913000    
+ PTM computation for          300  particles: step          131 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1913000    
+ PTM computation for          300  particles: step          132 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1912000    
+ PTM computation for          300  particles: step          133 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1911000    
+ PTM computation for          300  particles: step          134 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1912000    
+ PTM computation for          300  particles: step          135 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1912000    
+ PTM computation for          300  particles: step          136 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1912000    
+ PTM computation for          300  particles: step          137 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1911000    
+ PTM computation for          300  particles: step          138 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1911000    
+ PTM computation for          300  particles: step          139 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1911000    
+ PTM computation for          300  particles: step          140 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1911000    
+ PTM computation for          300  particles: step          141 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1910000    
+ PTM computation for          300  particles: step          142 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1910000    
+ PTM computation for          300  particles: step          143 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1911000    
+ PTM computation for          300  particles: step          144 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1911000    
+ PTM computation for          300  particles: step          145 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1909000    
+ PTM computation for          300  particles: step          146 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1910000    
+ PTM computation for          300  particles: step          147 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1911000    
+ PTM computation for          300  particles: step          148 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1910000    
+ PTM computation for          300  particles: step          149 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1910000    
+ PTM computation for          300  particles: step          150 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1910000    
+ PTM computation for          300  particles: step          151 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1910000    
+ PTM computation for          300  particles: step          152 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1909000    
+ PTM computation for          300  particles: step          153 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1909000    
+ PTM computation for          300  particles: step          154 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1909000    
+ PTM computation for          300  particles: step          155 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1909000    
+ PTM computation for          300  particles: step          156 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1909000    
+ PTM computation for          300  particles: step          157 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1908000    
+ PTM computation for          300  particles: step          158 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1908000    
+ PTM computation for          300  particles: step          159 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1908000    
+ PTM computation for          300  particles: step          160 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1909000    
+ PTM computation for          300  particles: step          161 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1909000    
+ PTM computation for          300  particles: step          162 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          163 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1908000    
+ PTM computation for          300  particles: step          164 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1908000    
+ PTM computation for          300  particles: step          165 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          166 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1909000    
+ PTM computation for          300  particles: step          167 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1908000    
+ PTM computation for          300  particles: step          168 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1908000    
+ PTM computation for          300  particles: step          169 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          170 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          171 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          172 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          173 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          174 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          175 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          176 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1907000    
+ PTM computation for          300  particles: step          177 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1906000    
+ PTM computation for          300  particles: step          178 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1906000    
+ PTM computation for          300  particles: step          179 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1906000    
+ PTM computation for          300  particles: step          180 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1906000    
+ PTM computation for          300  particles: step          181 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1906000    
+ PTM computation for          300  particles: step          182 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1906000    
+ PTM computation for          300  particles: step          183 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1906000    
+ PTM computation for          300  particles: step          184 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          185 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          186 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          187 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          188 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          189 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          190 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          191 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          192 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          193 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          194 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          195 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          196 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          197 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          198 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          199 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          200 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1905000    
+ PTM computation for          300  particles: step          201 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          202 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          203 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          204 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          205 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          206 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          207 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          208 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          209 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          210 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          211 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          212 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          213 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          214 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          215 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          216 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          217 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1904000    
+ PTM computation for          300  particles: step          218 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1919000    
+ PTM computation for          300  particles: step          219 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          220 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          221 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          222 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          223 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          224 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          225 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          226 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          227 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          228 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          229 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          230 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          231 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          232 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          233 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          234 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          235 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          236 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          237 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          238 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          239 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          240 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          241 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          242 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          243 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          244 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          245 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          246 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          247 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          248 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          249 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          250 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          251 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          252 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          253 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          254 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          255 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          256 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          257 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          258 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          259 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          260 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          261 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          262 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1901000    
+ PTM computation for          300  particles: step          263 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          264 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1901000    
+ PTM computation for          300  particles: step          265 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1901000    
+ PTM computation for          300  particles: step          266 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1901000    
+ PTM computation for          300  particles: step          267 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1901000    
+ PTM computation for          300  particles: step          268 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          269 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          270 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          271 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          272 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          273 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1901000    
+ PTM computation for          300  particles: step          274 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1901000    
+ PTM computation for          300  particles: step          275 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          276 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1901000    
+ PTM computation for          300  particles: step          277 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1901000    
+ PTM computation for          300  particles: step          278 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          279 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          280 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          281 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          282 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          283 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          284 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          285 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          286 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          287 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1903000    
+ PTM computation for          300  particles: step          288 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          289 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          290 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          291 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          292 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          293 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          294 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          295 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          296 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          297 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          298 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          299 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1902000    
+ PTM computation for          300  particles: step          300 /         300
+ NUMBER OF openMP THREADS:          16
+ EXECUTION TIME FOR PARTICLE LOOP:  0.1262000    
+ writeOutput: writing output to NetCDF... 
+ Writing to NetCDF: ptm_output_2011110917.nc
+ HOURS OF TRACKING:          300
+ TOTAL NUMBER OF PARTICLES:          300
+ NC GRID DIMENSIONS (LON,LAT,Z,T):         271         209          36
+         300
+ writeOuput: ALL DONE.
+This is PBS epilogue
+Looking for /sw/local/var/run/ecflow/ecflow_env.3134519.ventus....
+... /sw/local/var/run/ecflow/ecflow_env.3134519.ventus not found.
+Either this is not an ecflow script or /sw/local/var/run/ecflow/ecflow_env.3134519.ventus was not created correctly or ecflow completed ok... exiting.
