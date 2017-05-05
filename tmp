@@ -1,2 +1,0 @@
-ifort -fopenmp -o particleTracking utilities.f90 ptmModule.f90 allocateArrays.f90 get_closest_point.f90 initialize.f90 advectionDiffusion2D.f90 advectionDiffusion3D.f90 computeConcentrations.f90 readUV2D.f90 readUV3D.f90 updateParticleLevel.f90 updateParticleLocation.f90 fate.f90 writeOutput2D.f90 writeOutput3D.f90 readOceanModelInput.f90 readOcean2D.f90 readOcean3D.f90 createParticles.f90 readNetcdfGrid.f90 particleTracking.f90 -I/sw/local/netcdf-fortran-4.2/include/ -L/sw/local/netcdf-4.3.0/lib/ -lnetcdf -lnetcdff
-Makefile:43: recipe for target 'particleTracking' failed
