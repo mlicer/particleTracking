@@ -30,8 +30,8 @@ implicit none
 
     if (ncgrid%lsm(i_point,j_point,setup%level).eq. 1) then ! compute only for wet points:
     
-        ! current age of current particle in minutes (assuming HOURLY INPUT OF DATA):
-        ageInMinutes = (t-particles%hourOfBirth(p))*60.  
+        ! current age of current particle in minutes:
+        ageInMinutes = (t-particles%hourOfBirth(p))*setup%dt*60.  
         
       	! compute evaporation percentage following fingas:
         evapPercentage = A + B*sea%T(i_point,j_point,setup%level,t)   
